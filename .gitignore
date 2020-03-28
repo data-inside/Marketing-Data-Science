@@ -2,5 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+*.*.swp
+.swp
 
 User Preferences and HB Modeling/.Rapp.history
